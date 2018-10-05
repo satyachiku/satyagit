@@ -1,6 +1,1 @@
-apple
-dfgh
-glhlk
-gjhkj
-j
-f
+echo "$NAME is from $LOCATION"
